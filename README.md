@@ -1,7 +1,7 @@
 ### Hi, I'm Shashi Adhikari. 👋
 
 <!--
-**ShashiAdhikari/ShashiAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShashiAdhikari/ShashiAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 A graduate student at the University of Dayton, Ohio, USA. My major is Computer Science I will be graduating in May 2021. 
 I am interested in Deep Learning,NLP and Data Science.
 I worked as a software engineer for Accenture for 2 Years.
@@ -14,4 +14,3 @@ I worked as a software engineer for Accenture for 2 Years.
 📫 How to reach me: shashiadhikari3@gmail.com.
 😄 Pronouns: He/him
 
--->
