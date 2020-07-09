@@ -8,9 +8,14 @@ I worked as a software engineer for Accenture for 2 Years.
 
 
 🌱 I’m currently learning RASA, NLP, and how to write.
+
 👯 I’m looking to collaborate on deep learning projects.
+
 🤔 I’m looking for contributions to the applied-ml repository.
+
 💬 Ask me about Neural Network and how we can create the solution.
+
 📫 How to reach me: shashiadhikari3@gmail.com.
+
 😄 Pronouns: He/him
 
