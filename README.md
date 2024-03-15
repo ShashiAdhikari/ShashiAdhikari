@@ -5,6 +5,7 @@
 A graduate student at the University of Dayton, Ohio, USA. My major is Computer Science I will be graduating in May 2021. 
 I am interested in Deep Learning,NLP and Data Science.
 I worked as a software engineer for Accenture for 2 Years(2017-2019).
+Currently I work with Azure Machine Learning, Azure IoT HUB and Azure Cognitive Services 
 
 
 🌱 I’m currently learning RASA, NLP, and how to write.
