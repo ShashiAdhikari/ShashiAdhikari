@@ -7,13 +7,13 @@ I graduated from the University of Dayton, Ohio, USA, in May 2021 with a major i
 I have five years of experience as a software engineer. Currently, I work extensively with Azure Machine Learning, Azure IoT Hub, and Azure Cognitive Services, combining my passion for machine learning with the power of cloud computing to develop innovative solutions.
 
 
-🌱 I’m currently learning RASA, NLP, and how to write.
+🌱 I’m currently learning NLP and how to create an AI Agent.
 
 👯 I’m looking to collaborate on deep learning projects.
 
 🤔 I’m looking for contributions to the applied-ml repository.
 
-💬 Ask me about Neural Network and how we can create the solution.
+💬 Ask me about Neural Networks and how we can create the solution.
 
 📫 How to reach me: shashiadhikari3@gmail.com.
 
